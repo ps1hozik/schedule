@@ -2,6 +2,5 @@ venv/
 data
 .idea
 __pycache__
-local_settings.py
 *.sql
 schedule/
